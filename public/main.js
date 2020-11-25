@@ -3037,7 +3037,7 @@ __webpack_require__.r(__webpack_exports__);
   base_url: 'http://localhost:3000'
 }; */
 const environment = {
-    production: true,
+    production: false,
     base_url: 'https://appdia.herokuapp.com'
 };
 /*
